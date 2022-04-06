@@ -28,3 +28,5 @@
   - +-*/
   - np.dot(a, b) == a.dot(b)
   - np.matmul(a, b) == a @ b
+
+​	[numpy实现反向传播](https://github.com/MorvanLi/numpyTutorial/blob/main/demo.ipynb)
