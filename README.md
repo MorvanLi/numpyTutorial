@@ -1,1 +1,30 @@
 # numpyTutorial
+
+- 创建和生成
+  - `np.linspace(start, end, nums)`
+  - `rng.integers/uniform(low, high, size)`
+  - `rng.normal(loc, scale, size)`
+- 统计和属性
+  - `arr.shape`
+  - `arr.sum/max/min(axis, keepdims)`
+  - `np.average(arr, axis)`
+- 形状和转换
+  - `arr.reshpae/np.reshape`
+  - `np.expand_dims(arr, axis)`
+  - `np.squeeze(arr axis)`
+  - `np.transpose(arr, axis)`
+  - `arr.T`
+- 分解和组合
+  - `arr[start:stop:step, ...]`
+  - `np.concatenate((arr1, arr2), axis)`
+  - `np.stack((arr1, arr2), axis)`
+  - `np.repeat(arr, repeat_num, axis)`
+  - `np.split(arr, part_num, axis)`
+- 筛选和过滤
+  - `np.where(condition, arr, replaced_val)`
+  - `rng.choice(a, size, replace=False, p=probs_size_equals_a)`
+  - `rng.argmax/argmin/argsort(arr, axis)`
+- 矩阵和计算
+  - `+-*/`
+  - `np.dot(a, b) == a.dot(b)`
+  - `np.matmul(a, b) == a @ b`
