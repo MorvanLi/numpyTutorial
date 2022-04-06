@@ -16,6 +16,7 @@ flower_data
 *.bin
 *.mapping
 *.mat
+.ipynb_checkpoints
 checkpoint
 data
 VOCdevkit
