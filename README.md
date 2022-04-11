@@ -29,4 +29,4 @@
   - np.dot(a, b) == a.dot(b)
   - np.matmul(a, b) == a @ b
 
-- [numpy实现反向传播](https://github.com/MorvanLi/numpyTutorial/blob/main/demo.ipynb)
+- [numpy实现反向传播](https://github.com/MorvanLi/numpyTutorial/blob/main/np7_%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb)
