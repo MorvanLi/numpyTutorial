@@ -1,4 +1,4 @@
-# numpyTutorial
+# [numpyTutorial]([推导反向传播与Numpy手撕BP神经网络_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1db4y1j7Qo?spm_id_from=333.880.my_history.page.click))
 
 - [创建和生成](https://github.com/MorvanLi/numpyTutorial/blob/main/np1_%E5%88%9B%E5%BB%BA%E5%92%8C%E7%94%9F%E6%88%90.ipynb)
   - np.linspace(start, end, nums)
